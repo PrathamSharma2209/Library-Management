@@ -19,7 +19,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Akshara Bhardwaj
+ * @author Pratham Sharma
  */
 public class Author extends javax.swing.JFrame {
 
